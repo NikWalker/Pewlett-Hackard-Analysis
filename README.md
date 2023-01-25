@@ -45,6 +45,8 @@ A query was written to find the mentorship eligible employees that were born bet
 -	Approximately one third (33%) of PH employees could potentially retire.
 -	1,549 employees could enter the mentorship program.
 
+### PH's Questions Answered
+
 **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 
 As the “silver tsunami” begins to impact Pewlett-Hackard, the company may need to hire 72,458 employees, as this is the number of employees eligible for retirement.  
